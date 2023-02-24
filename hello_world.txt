@@ -1,1 +1,5 @@
 Hi I'm Justin this a text customized for this file
+Hey we gonna add this and test new command line
+Testing 
+Testing again...
+.. Going on 
